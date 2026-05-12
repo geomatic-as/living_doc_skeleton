@@ -18,6 +18,7 @@ Cross-cutting concerns shared across products. Anything that isn't owned by a si
 | `infrastructure/` | Shared cloud foundation, networking, accounts |
 | `shared-libraries/` | Internal packages, SDKs, common utilities |
 | `platform/` | Internal platform services, dev portal, deployment platform |
+| `prefect-platform/` | Self-hosted Prefect orchestration platform — schedules and runs all data pipelines |
 
 ## Style
 
